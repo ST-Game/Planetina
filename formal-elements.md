@@ -24,8 +24,8 @@ The player will gain different powers during the game and will need to manage th
 
 * The player’s objectives are to save the planet from all the hazards that he encounters, using his super abilities. The player will win when the planet will be able to take on the environmental hazards without Planetina’s help.
 * The player will learn the objectives of the game during the tutorial and the game itself via achievements.
+In the tutorial the player will face a complex situation, with multiple hazards taking place, and will be guided through solving them.
 * The player won’t be able to change the game’s objectives.
-
 
 
 ### 3. Processes
