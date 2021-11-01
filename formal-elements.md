@@ -10,6 +10,7 @@ The player will gain different powers during the game and will need to manage th
 ![Fly over](./flyover.png)
 ---
 
+
 ## Formal Elements
 
 ### 1. Players
@@ -29,6 +30,7 @@ In the tutorial the player will face a complex situation, with multiple hazards 
 
 
 ### 3. Processes
+
 
 * The first 30 second will be of major hazards and the game will guide the player how to save the planet from each of the hazards. The player is using the keyboard to maneuver throw the planet to get to the hazard, once getting to the scene, there will be a mini game of how to resolve the hazard. On each hazard the player will have the option to choose one of 2 solutions, one will be sustainable and the other will be temporary.
 * The core of the game: the player is flying in the planet and if there is a hazard there will be an alarm on the top of the screen. Once a hazard has appeared the player can choose to fly to it or not by using the keyboard. 
