@@ -36,5 +36,9 @@ In the tutorial the player will face a complex situation, with multiple hazards 
 
 ### 4. Rules
 
-* The player’s actions will be limited by 
-* The player’s score will be impacted by the way and speed he resolved the hazards, and by the solution he chose – sustainable solution wi
+* The player’s actions will be defined by his effort to maintain the appropriate levels:
+    - O2 levels (between 19%-23%)
+    - CO2 levels (0.03%)
+    - N levels (between 75% - 78%)
+    - planet temperature level (between 44C – (-32C))
+    - Land precents (between 40%-30%) / Water levels (between 60%-70%)
