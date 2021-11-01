@@ -7,7 +7,7 @@
 In **Planetina** you save the world from environmental hazards and prevent irreversible damages to the planet and its population. You'll need to use your super powers to save the planet from megafires, air pollution, light pollution, low O2 and high CO2 levels etc.  
 The player will gain different powers during the game and will need to manage the hazards and resolve them with minimum impact on the planet and the population.
 
-
+![Fly over](./flyover.png)
 ---
 
 ## רכיבים רשמיים
