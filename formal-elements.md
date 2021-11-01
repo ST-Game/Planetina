@@ -1,23 +1,14 @@
 # Planetina
 
-<div dir='rtl' lang='he'>
+**Come save the world! **
 
-# ברוכים הבאים למשחק פלנטינה 
-### בוא להציל את העולם
+## Concept
 
-**פלנטינה** הינו משחק מחשב לכל הגילאים, בו השחקן הינו גיבור-על אשר עליו להציל את העולם ממפגעי הסביבה בכדור הארץ ולהציל אותו מנזקים בלתי הפיכים.
+In **Planetina** you save the world from environmental hazards and prevent irreversible damages to the planet and its population. You'll need to use your super powers to save the planet from megafires, air pollution, light pollution, low O2 and high CO2 levels etc.  
+The player will gain different powers during the game and will need to manage the hazards and resolve them with minimum impact on the planet and the population.
+
 
 ---
-
-## מהות המשחק 
-מטרת המשחק הינה להציל את העולם מנזקי סביבה שנוצרים הן בידי אדם והן כדרך טבע. על _פלטינה_ להשתמש בכוחותיה כדי שכדור הארץ לא יפגע ממפגעי האקלים, זיהום אוויר, זיהום אור, CO2 וכו'.
-השחקן יצבור כוחות תוך כדי המשחק ויצטרך לנהל אסונות טבע ולאירועי חירום בהקשר "בריאות" של כדור הארץ.
-
-[ ] להוסיף ציורי מסך
-
----
-
-
 
 ## רכיבים רשמיים
 
@@ -41,31 +32,4 @@
 
 * 
 * השחקן
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
