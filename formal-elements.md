@@ -11,6 +11,7 @@ The player will gain different powers during the game and will need to manage th
 ---
 
 
+
 ## Formal Elements
 
 ### 1. Players
@@ -19,8 +20,6 @@ The player will gain different powers during the game and will need to manage th
 * The game is designed for a single player, but has a leader board. 
 * Players will compete to make it to the top of the leader board.
 
-
-
 ### 2. Goals
 
 * The player’s objectives are to save the planet from all the hazards that he encounters, using his super abilities. The player will win when the planet will be able to take on the environmental hazards without Planetina’s help.
@@ -28,9 +27,7 @@ The player will gain different powers during the game and will need to manage th
 In the tutorial the player will face a complex situation, with multiple hazards taking place, and will be guided through solving them.
 * The player won’t be able to change the game’s objectives.
 
-
 ### 3. Processes
-
 
 * The first 30 second will be of major hazards and the game will guide the player how to save the planet from each of the hazards. The player is using the keyboard to maneuver throw the planet to get to the hazard, once getting to the scene, there will be a mini game of how to resolve the hazard. On each hazard the player will have the option to choose one of 2 solutions, one will be sustainable and the other will be temporary.
 * The core of the game: the player is flying in the planet and if there is a hazard there will be an alarm on the top of the screen. Once a hazard has appeared the player can choose to fly to it or not by using the keyboard. 
@@ -43,6 +40,7 @@ In the tutorial the player will face a complex situation, with multiple hazards 
     - CO2 levels (0.03%)
     - N levels (between 75% - 78%)
     - planet temperature level (between 44C – (-32C))
+
     - Land precents (between 40%-30%) / Water levels (between 60%-70%)
 
 *The player’s score will be impacted by the way and speed he resolved the hazards, and by the solution he chose – sustainable solution will get more points.
