@@ -14,17 +14,17 @@ The player will gain different powers during the game and will need to manage th
 
 ### 1. Players
 
-* The game is for player from the age of 7-99 that are looking for a challenge while saving the planet. 
-* The game is designed for a single player facing the challenges of saving the planet.
-* The pattern of interaction between the players is competitive.
+* The game is suited for player of ages 7-99 that are looking for a challenge while saving the planet. 
+* The game is designed for a single player, but has a leader board. 
+* Players will compete to make it to the top of the leader board.
 
 
 
 ### 2. Goals
 
-* The player’s objects are to save the planet from all the hazards that he in count with using his super abilities. The player will win once the planet will be able to take on the environmental hazards without Planetina’s help.
-* The player will learn the objects of the game during the tutorial and the game itself via achievements.
-* The player won’t be able to change the game’s objects.
+* The player’s objectives are to save the planet from all the hazards that he encounters, using his super abilities. The player will win when the planet will be able to take on the environmental hazards without Planetina’s help.
+* The player will learn the objectives of the game during the tutorial and the game itself via achievements.
+* The player won’t be able to change the game’s objectives.
 
 
 
