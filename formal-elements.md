@@ -10,26 +10,31 @@ The player will gain different powers during the game and will need to manage th
 ![Fly over](./flyover.png)
 ---
 
-## רכיבים רשמיים
+## Formal Elements
 
+### 1. Players
 
-### 1. שחקנים
-
-* המשחק מיועד לשחקנים בכל הגילאים, לכל שכבות הניסיון במשחקי מחשב שמעוניינים ללמוד על נזקי הסביבה שקיימים בכדור הארץ וכיצד ניתן לשפר את המצב.
-* המשחק מיועד לשחקן יחיד למול שלבים מאתגרים.
-* דפוס האינטרקציה בין השחקנים הינו תחרותי.
-
-
-
-###2. יעדים
-
-* השחקן צריך להציל את כדור הארץ בכל שלב מחדש מהמפגעים שקורים בשלב.
-* ברגע שהשחקן יתפל במפגע שקורה, השלב יגמר וכדור הארץ ניצל בידי השחקן. לדוג' המפגע יכול להיות חוסר ברמות חמצן באוויר - ברגע שהשחקן ישתול יערות ורמות החמצן יעלו הוא ניצח את השלב.
+* The game is for player from the age of 7-99 that are looking for a challenge while saving the planet. 
+* The game is designed for a single player facing the challenges of saving the planet.
+* The pattern of interaction between the players is competitive.
 
 
 
-### 3. תהליכים
+### 2. Goals
 
-* 
-* השחקן
+* The player’s objects are to save the planet from all the hazards that he in count with using his super abilities. The player will win once the planet will be able to take on the environmental hazards without Planetina’s help.
+* The player will learn the objects of the game during the tutorial and the game itself via achievements.
+* The player won’t be able to change the game’s objects.
 
+
+
+### 3. Processes
+
+* The first 30 second will be of major hazards and the game will guide the player how to save the planet from each of the hazards. The player is using the keyboard to maneuver throw the planet to get to the hazard, once getting to the scene, there will be a mini game of how to resolve the hazard. On each hazard the player will have the option to choose one of 2 solutions, one will be sustainable and the other will be temporary.
+* The core of the game: the player is flying in the planet and if there is a hazard there will be an alarm on the top of the screen. Once a hazard has appeared the player can choose to fly to it or not by using the keyboard. 
+* The end of the game: in order to win the game the player needs to make must of the solutions he chose be sustainable, the score will be higher for the sustainable solutions.
+
+### 4. Rules
+
+* The player’s actions will be limited by 
+* The player’s score will be impacted by the way and speed he resolved the hazards, and by the solution he chose – sustainable solution wi
