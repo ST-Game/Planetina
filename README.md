@@ -6,7 +6,7 @@
 --- 
 In Planetina, you use your special abilities to resolve environmental hazards and help produce sustainable solutions for the plant's catastrophes. 
 
-![fly over](./flyover.png)
+![fly over](./planetina_overseas.png)
 
 ## Formal Elements
 ---
